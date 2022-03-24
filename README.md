@@ -4,6 +4,8 @@ During my ten year career in media as I led and managed various teams, I started
 
 I enjoy working in JavaScript and Python and have completed projects using NodeJS, React, NextJS and TypeScript. Infrastructure is one of my favorite topics, and I'm always eager to learn more about DevOps and CI/CD workflows.
 
+My beagle's name is Croquetita 🐶
+
 <!--
 **sqr/sqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
