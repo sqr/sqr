@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-During my fulfilling ten year career in media as I led and managed various teams, I started developing software to streamline processes and help my team complete their tasks more efficiently. I fell in love with development after deploying my first web app, and two years of online learning have since flown by. It is now time to pursue a full time career in software, with the goal of helping my colleagues while also expanding my skillset every single day.
+During my ten year career in media as I led and managed various teams, I started developing software to streamline processes and help my team complete their tasks more efficiently. I fell in love with development after deploying my first web app, and two years of online learning have since flown by. It is now time to pursue a full time career in software, with the goal of helping my colleagues while also expanding my skillset every single day.
 
 I enjoy working in JavaScript and Python and have completed projects using NodeJS, React, NextJS and TypeScript. Infrastructure is one of my favorite topics, and I'm always eager to learn more about DevOps and CI/CD workflows.
 
